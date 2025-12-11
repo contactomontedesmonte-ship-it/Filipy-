@@ -1,0 +1,7 @@
+{
+  "name": "Monte & Desmonte",
+  "description": "Sistema de gestão financeira de obras mobile-first com dark mode premium, cálculo de margens e controle de KPIs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
